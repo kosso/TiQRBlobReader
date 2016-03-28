@@ -3,6 +3,11 @@
 Appcelerator Titanium module to detect a QR code in a TiBlob image.
 
 
+### Note:
+
+This might not work on older devices. See : https://forums.developer.apple.com/thread/20887
+
+
 ## Usage:
 
 ```
