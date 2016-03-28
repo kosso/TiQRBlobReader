@@ -1,6 +1,6 @@
 # TiQRBlobReader
 
-Appcelerator Titanium module to detects a QR code in an image TiBlob.
+Appcelerator Titanium module to detect a QR code in a TiBlob image.
 
 
 ## Usage:
@@ -25,6 +25,8 @@ Appcelerator Titanium module to detects a QR code in an image TiBlob.
     qr.detectCode( blob, callback );
 
 ```
+
+See exmaple.
 
 -------------------
 
