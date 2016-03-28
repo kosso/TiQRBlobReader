@@ -5,7 +5,7 @@
 version: 0.1
 apiversion: 2
 architectures: armv7 arm64 i386 x86_64
-description: QRBlobReader
+description: iOS Appcelerator Titanium module to detect a QR code in a TiBlob image.
 author: Kosso
 license: MIT
 copyright: 2016
