@@ -37,7 +37,7 @@ Titanium.Media.openPhotoGallery({
 
 		try{
 
-			qrblobreader.detectCode(event.media, qrCallback);
+			qrblobreader.detectQRCode(event.media, qrCallback);
 
 		}
 		catch(e){       
