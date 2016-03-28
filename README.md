@@ -26,7 +26,7 @@ Appcelerator Titanium module to detect a QR code in a TiBlob image.
 
 ```
 
-See exmaple.
+See example.
 
 -------------------
 
